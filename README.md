@@ -21,6 +21,6 @@ Bu projede uçak rezervasyon modellemesi yaptık. Bu proje C# program dilinde ya
 
 9)UcusOlusturma sınfı, gideceğimiz yerin uçuş bilgilerini döküm halinde gösterir.
 
-10)Program sınfı, tüm sınıfları bir araya getirerek çalıştırılmasını sağlar.
+10)Program sınfı, tüm sınıfları bir araya getirerek çalıştırılmasını ve girdiğimiz tüm bilgileri Console uygulamasında gözükmesini sağlar.
 
-Bu projeyi çalıştırmak için, klasörde yer alan Program.cs dosyasını açabilirsiniz. Ardından uygulamayı çalıştırıp başlatabilirsiniz. Müşteri adı, soyadı, yaşı, kimlik numarası, telefon numarası, cinsiyeti, engel durumu, lokasyon ve tarih bilgilerini girmesini sağlayan arayüz görünür. Müşteri ile ilgili bilgiler girildikten sonra, uçuş rezervasyon bilgileri konsol üzerinde ekrana yazdırılır.
+Bu projeyi çalıştırmak için, klasörde yer alan Program.cs dosyasını açabilirsiniz. Ardından uygulamayı çalıştırıp başlatabilirsiniz. Müşteri adı, soyadı, yaşı, kimlik numarası, telefon numarası, cinsiyeti, engel durumu, lokasyon ve tarih bilgilerini girmesini sağlayan arayüz görünür. Müşteri ile ilgili bilgiler girildikten sonra, uçuş rezervasyon bilgileri Console üzerinde ekrana yazdırılır.
