@@ -1,7 +1,7 @@
 # ucak-rezervasyon-sistemi
 C# Projesi/Uçak Rezervasyon Sistemi
 
-Bu projede uçak rezervasyon modellemesi yaptık. Bu proje C# program dilinde yazılmıştır. Müşteriler, seyahat edecekleri lokasyon ve seçecekleri tarihe göre uçuşlarını rezerve edebilir ve görebilirler. Modellemenin konstrüksiyon yapısı şu şekildedir:
+Bu projede uçak rezervasyon sistemi modellemesi yaptık. Bu proje C# program dilinde yazılmıştır. Müşteriler, seyahat edecekleri lokasyon ve seçecekleri tarihe göre uçuşlarını rezerve edebilir ve görebilirler. Uçak Rezervasyon Sistemi Modellemenin konstrüksiyon yapısı şu şekildedir:
 
 1)Projemiz Ucak, Lokasyon, Musteri, MusteriOlusturma, LokasyonOlusturma, Rezervasyon, UcakOlusturma, UcusOlusturma ve Program sınıflarından oluşmaktadır.
 
